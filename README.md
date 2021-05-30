@@ -95,7 +95,9 @@ Python 3.x
 Panda
 Pickle
 SKLearn ->feature_extraction Import CountVectorizer
-SKlearn ->naive bayes Import MultinomialNB
+SKlearn ->naive bayes Import MultinomialNB. 
+
+
 Our Client Interface
 
 ![](https://github.com/JordanZhang18/NW-Capstone-Group-Project/blob/master/static/Screen%20Shot%202021-05-17%20at%206.11.36%20PM.png)
