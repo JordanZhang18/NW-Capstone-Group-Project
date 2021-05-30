@@ -98,7 +98,7 @@ SKLearn ->feature_extraction Import CountVectorizer
 SKlearn ->naive bayes Import MultinomialNB
 Our Client Interface
 
-![](/static/Screen Shot 2021-05-17 at 6.11.36 PM.png)
+![](https://github.com/JordanZhang18/NW-Capstone-Group-Project/blob/master/static/Screen%20Shot%202021-05-17%20at%206.11.36%20PM.png)
 
 User can simply type in words, phrases, and sentences in the dialog box as if this is an SMS message
 After inputting text in the dialog box, click "Predict"
